@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Markese! <br/>Programmer</a> & Cybersecurity Enthusiest</a>
 
-<!--
-**Mraley007/Mraley007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Command and Control (C2) Framework Project</b>
+  - [Custom example Command and control](https://github.com/......iouiuoiyuio)
+- <b>Secure Login System Project</b>
+  - [Custom example Auth Sytem login](https://github.com/.........u8huihuyhyy) 
+- <b>Python Firewall Project</b>
+  - [Custom example Firewall](https://github.com/.....877yyuyuy)
+- <b>Website Security Essentials Project</b>
+  - [Custom example of website security utilizing Python](https://github.com/.......hhuhuhu)
+  
