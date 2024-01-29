@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Command and Control (C2) Framework Project</b>
-  - [Custom example Command and control](https://github.com/......iouiuoiyuio)
+  - [Custom example Command and Control](https://github.com/......iouiuoiyuio)
 - <b>Secure Login System Project</b>
   - [Custom example Auth Sytem login](https://github.com/.........u8huihuyhyy) 
 - <b>Python Firewall Project</b>
